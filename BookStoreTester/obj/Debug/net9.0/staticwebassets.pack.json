@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets/BookStoreTester.wv8hqy3ddk.bundle.scp.css"
     },
     {
-      "Id": "/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/wwwroot/config.js",
-      "PackagePath": "staticwebassets/config.js"
-    },
-    {
       "Id": "/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -291,10 +287,6 @@
     {
       "Id": "/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/wwwroot/manifest.json",
       "PackagePath": "staticwebassets/manifest.json"
-    },
-    {
-      "Id": "/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/wwwroot/server.js",
-      "PackagePath": "staticwebassets/server.js"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BookStoreTester.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

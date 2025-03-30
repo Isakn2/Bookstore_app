@@ -1,6 +1,12 @@
-﻿<!DOCTYPE html>
+﻿ <!-- _Layout.cshtml -->
+<!DOCTYPE html>
 <html lang="en" data-bs-theme="light">
 <head>
+    <style>
+        body {
+            padding-top: 70px;
+        }
+    </style>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -54,7 +60,7 @@
         </nav>
     </header>
 
-    <div class="container pt-5">
+    <div class="container pt-4 mt-2"> <!-- Adjust padding/margin -->
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -65,10 +71,6 @@
             &copy; 2025 - BookStoreTester - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-
-    <!-- External JS Links (Place JavaScript at the end for faster page load) -->
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     
     <!-- Main JS file -->
     <script src="~/js/site.js" asp-append-version="true"></script>

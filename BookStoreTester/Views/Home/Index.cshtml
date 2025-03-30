@@ -70,35 +70,16 @@
         </table>
         
         <!-- Gallery View -->
-        <div id="bookGallery" class="row row-cols-1 row-cols-md-3 g-4 d-none"></div>
+        <div id="bookGallery" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 d-none"></div>
         
         <!-- No Results Message -->
         <div id="noResults" class="alert alert-info d-none">No books found with these parameters.</div>
     </div>
 </div>
 
-@section Styles {
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css" rel="stylesheet">
-    <style>
-        .book-cover {
-            height: 200px;
-            object-fit: cover;
-            object-position: center;
-        }
-        
-        #bookTable {
-            transition: opacity 0.3s ease;
-        }
-        
-        #loadingIndicator {
-            transition: all 0.3s ease;
-        }
-    </style>
-}
-
 @section Scripts {
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.20/lodash.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.12.0/intersection-observer.js"></script>

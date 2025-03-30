@@ -357,11 +357,8 @@
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/scopedcss/bundle/BookStoreTester.styles.css
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/scopedcss/projectbundle/BookStoreTester.bundle.scp.css
-/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/vfzx7rjpc1-2bngpog6m1.gz
-/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/8q8txb0t3u-oyd83kayie.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/ar9h81mywj-61n19gt1b8.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/616vebwve6-6sx6pifph3.gz
-/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/ublg1qhfh0-ssexwic8cy.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/71flhu2dzw-bqjiyaj88i.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/0wte0cfl6i-c2jlpeoesf.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/m5h19gon2c-erw9l3u2r3.gz
@@ -422,7 +419,6 @@
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/x96mpqp9h4-87fc7y1x7t.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/ilh1txuv6f-mlv21k5csn.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/nngcgdt9ub-8lig66s8wl.gz
-/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/2z6w6vxq78-egokj2pi2p.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/a57d0rnrjs-wv8hqy3ddk.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/gh9ykzgxv4-wv8hqy3ddk.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/staticwebassets.build.json
@@ -440,3 +436,5 @@
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/BookStoreTester.pdb
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/BookStoreTester.genruntimeconfig.cache
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/ref/BookStoreTester.dll
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/8q8txb0t3u-imryr4rd3b.gz
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/ublg1qhfh0-sojbgw3ziu.gz
