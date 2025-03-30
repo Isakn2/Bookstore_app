@@ -438,3 +438,10 @@
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/ref/BookStoreTester.dll
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/8q8txb0t3u-imryr4rd3b.gz
 /Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/obj/Debug/net9.0/compressed/ublg1qhfh0-sojbgw3ziu.gz
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/web.config
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/appsettings.json
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/BookStoreTester.deps.json
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/BookStoreTester.runtimeconfig.json
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/BookStoreTester.staticwebassets.endpoints.json
+/Users/isaacsilvagutierrez/Documents/DataAnalysis/Itransition/task5/Bookstore_app/BookStoreTester/bin/Debug/net9.0/publish/wwwroot/manifest.json
